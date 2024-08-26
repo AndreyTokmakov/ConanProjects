@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+
+EXAMPLES
+*/build
+*/venv
+*/*/build
+*/*/venv
+*/CMakeUserPresets.json
+*/*/CMakeUserPresets.json

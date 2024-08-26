@@ -1,0 +1,1 @@
+. "/home/andtokm/DiskS/ProjectsUbuntu/ConanProjects/SQLiteProject/conanrunenv-release-x86_64.sh"
